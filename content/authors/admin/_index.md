@@ -15,9 +15,9 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Estadística aplicada a negocio
+- Prónosticos, modelos predectivos, econometría.
 organizations:
 - name: UP Consulting
   url: https://upconsultingsrl.com
@@ -42,8 +42,8 @@ superuser: true
 title: Charlie Do Amaral
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Soy Lic. en Administración y Dirección de Empresas con especialidad en Estadística.  Recibí mi licenciatura en la Universidad Autónoma de Barcelona. En los últimos años alcancé mi objetivo de convertirme en científico de datos. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Como Científico de datos trabajo en equipos multifuncionales para modelar problemas complejos e identificar oportunidades de alto impacto. Me siento cómodo utilizando herramientas como R o Python para el desarrollo de modelos de Machine Learning/Algoritmos de Ciencia de datos, usar técnicas estadísticas o de minería de datos para modelar problemas complejos, encontrar oportunidades, descubrir soluciones y brindar información de negocio procesable. 
 
 {{< icon name="download" pack="fas" >}} Descarga mi {{< staticref "uploads/charlie-do-amaral.pdf" "newtab" >}}hoja de vida{{< /staticref >}}.
