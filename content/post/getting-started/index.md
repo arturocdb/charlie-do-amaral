@@ -14,3 +14,11 @@ title: Clasificación asociativa - parte 2
 ## Caso de uso
 
 
+
+
+
+
+
+
+
+
