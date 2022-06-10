@@ -1,17 +1,16 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Mis intereses son en Machine Learning, estadística aplicada a los negocios, pronóstico y econometría.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Especialización en Estadística
+    institution: University of Michigan
+    year: 2018
+  - course: 7 Certificaciones en Ciencia de Datos
+    institution: IBM
+    year: 2019
+  - course: Lic. Administración de Empresas
+    institution: Universidad Autónoma de Barcelona
+    year: 2005
 email: ""
 highlight_name: true
 interests:
@@ -26,18 +25,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: /uploads/charlie-do-amaral.pdf
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/arturocdb
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/charlie-arturo-do-amaral-becerra/
 superuser: true
 title: Charlie Do Amaral
 ---
